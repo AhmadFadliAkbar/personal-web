@@ -1,1 +1,1 @@
-Personal Web: akbar-personal-web.vercel.app
+Personal Web: http://akbar-personal-web.vercel.app
