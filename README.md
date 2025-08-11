@@ -1,1 +1,1 @@
-Personal Web: http://akbar-personal-web.vercel.app
+Personal Web: ahmadfadliakbar.site
