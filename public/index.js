@@ -1,3 +1,5 @@
+/* global THREE */ // ✨ PERUBAHAN ADA DI BARIS INI ✨
+
 document.addEventListener("DOMContentLoaded", function () {
   // --- Mobile Menu Toggle ---
   const mobileMenuButton = document.getElementById("mobile-menu-button");
