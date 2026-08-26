@@ -1,1 +1,1 @@
-Personal Web: https://ahmadfadliakbar.site
+Link: afadliakbar.site
